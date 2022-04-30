@@ -1,0 +1,16 @@
+кнопки операторы 
+при пустом prevalue записывают туда current value 
+при пустом curentvalue меняют оператор
+при curentvalue и prevValue соверашают операцию
+
+кнопки цифры 
+добовляют к currentValue цифру
+
+кнопка точки 
+добовляет точку если в currentValue нету точки
+
+кнопка AC убирает currentValue и prevValue
+
+кнопка DEL убирает последнюю цифру в CurrentValue
+
+Кнопка = убирает currentValie и prevValue и выводит результат в currentValue только при присутсвие currentValue 
